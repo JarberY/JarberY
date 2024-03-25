@@ -15,3 +15,6 @@ As I continue my journey in Full Stack development, I am always on the lookout f
 ## Technologies
 - Back-End: Proficient in Java, I bring to the table a strong understanding of server-side development...
 - Front-End: My expertise in Angular allows me to create interactive and user-friendly interfaces...
+
+## Idiomas
+Como tal, el idioma es un sistema de comunicación lingüístico, que puede ser tanto oral como escrito. Se caracteriza por regirse según una serie de convenciones y normas gramaticales que garantizan la comunicación entre las personas.
